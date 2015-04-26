@@ -1,0 +1,22 @@
+{
+    "coverage": {
+        "country": "us",
+        "state": "ca",
+        "city": "San Francisco"
+    },
+    "attribution": "City of San Francisco",
+    "data": "https://data.sfgov.org/download/kvej-w5kb/ZIPPED%20SHAPEFILE",
+    "license": "",
+    "year": "",
+    "type": "http",
+    "compression": "zip",
+    "conform": {
+	"split": "ADDRESS",
+        "lon": "x",
+        "lat": "y",
+        "number": "auto_number",
+        "street": "auto_street",
+        "type": "shapefile",
+        "postcode": "zipcode"
+    }
+}
