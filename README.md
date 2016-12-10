@@ -1,2 +1,2 @@
-# hooked-on-sources
-Temporary repository for testing Github webhook features
+# Minimal Test Sources
+Minimal repository for testing OpenAddresses machine features.
