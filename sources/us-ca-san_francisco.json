@@ -5,7 +5,7 @@
         "city": "San Francisco"
     },
     "attribution": "City of San Francisco",
-    "data": "https://data.sfgov.org/download/kvej-w5kb/ZIPPED%20SHAPEFILE",
+    "data": "https://s3.amazonaws.com/minimal.openaddresses.io/cache/us-ca-san_francisco-excerpt.zip",
     "license": "",
     "year": "",
     "type": "http",

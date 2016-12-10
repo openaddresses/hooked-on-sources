@@ -9,7 +9,7 @@
         "state": "ca",
         "county": "Alameda"
     },
-    "data": "https://data.acgov.org/api/geospatial/8e4s-7f4v?method=export&format=Original",
+    "data": "https://s3.amazonaws.com/minimal.openaddresses.io/cache/us-ca-alameda_county-excerpt.zip",
     "license": "http://www.acgov.org/acdata/terms.htm",
     "attribution": "Alameda County",
     "year": "",

@@ -9,7 +9,7 @@
         "state": "ca",
         "county": "Contra Costa"
     },
-    "data": "http://www.ccmap.us/download/main.asp?idProduct=134492",
+    "data": "https://s3.amazonaws.com/minimal.openaddresses.io/cache/us-ca-contra_costa_county-excerpt.zip",
     "website": "http://www.ccmap.us/catalog.asp?UserChoice=1&Layercntrl=0000000000000000000000#1",
     "license": "http://www.ccmap.us/information.asp",
     "attribution": "Contra Costa County",

@@ -10,7 +10,7 @@
         "place": "Berkeley"
     },
     "attribution": "City of Berkeley",
-    "data": "http://www.ci.berkeley.ca.us/uploadedFiles/IT/GIS/Parcels.zip",
+    "data": "https://s3.amazonaws.com/minimal.openaddresses.io/cache/us-ca-berkeley-excerpt.zip",
     "website": "http://www.ci.berkeley.ca.us/datacatalog/",
     "type": "http",
     "compression": "zip",
